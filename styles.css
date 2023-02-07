@@ -1,0 +1,32 @@
+.header {
+    background-color: darkblue;
+}
+
+.top_of_header {
+    display: flex;
+    color: #E5E7EB;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.background {
+    background-color: aliceblue;
+    height: 1000px;
+}
+
+.body {
+    padding-top: 70px;
+    padding-left: 20px;
+}
+
+.player_score {
+    display: flex;
+    margin-left: 18px;
+}
+
+.computer_score {
+    display: flex;
+    margin-left: 18px;
+}
