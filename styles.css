@@ -19,14 +19,13 @@
 .body {
     padding-top: 70px;
     padding-left: 20px;
+    font-family: sans-serif;
 }
 
-.player_score {
-    display: flex;
-    margin-left: 18px;
-}
-
-.computer_score {
-    display: flex;
-    margin-left: 18px;
+.button {
+    width: 80px;
+    height: 25px;
+    background-color: #E5E7EB;
+    border-radius: 8px;
+    border-width: 1px;
 }
